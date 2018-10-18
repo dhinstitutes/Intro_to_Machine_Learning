@@ -1,4 +1,4 @@
-[<<< Previous](features.md) | [Next >>>](supervised.md)
+[<<< Previous](5-features.md) | [Next >>>](7-supervised.md)
 
 ## Let's visualize this data!
 What do you notice about the data?  Do you think our features will be good at predicting news and romance sentences?  Which features do you think will be the most useful? We will be using the *matplotlib* and *pandas* libraries to visualize our data, and the latter is built on the former. As mentioned above, a *matplotlib* visualization is a `figure` onto which is attached one or more `axes`. Each `axes` has a horizontal (x) `axis` and vertical (y) `axis`, and the data is encoded using color and glyphs such as `markers` (for example circles) or `lines` or polygons (called `patches`). The figure below annotates these parts of a visualization and was created by Nicolas P. Rougier using `matplotlib`. The source code can be found in the matplotlib documentation. <sup>1</sup>
@@ -112,5 +112,5 @@ fig.savefig("images/side_by_side.png", bbox_inches = 'tight', pad_inches = 0)
 
 ![Composite image of bar chart comparing the total count of nouns and adjectives in each group (romance and news) next to the jittered scatterplot of individual observations. In the bar chart, the highest value is nouns in news, and this is reflected in the scatter where there are many news dots to the right of the romance dots.](../images/side_by_side.png)
 
-[<<< Previous](features.md) | [Next >>>](supervised.md)
+[<<< Previous](5-features.md) | [Next >>>](7-supervised.md)
 
