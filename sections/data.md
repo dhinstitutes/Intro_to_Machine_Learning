@@ -1,6 +1,6 @@
 [<<< Previous](classification.md) | [Next >>>](features.md)
 
-## Getting Our Data
+# Getting Our Data
 
 Let's get to coding!
 
