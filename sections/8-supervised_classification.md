@@ -1,4 +1,4 @@
-[<<< Previous](supervised.md) | [Next >>>](unsupervised.md)
+[<<< Previous](7-supervised.md) | [Next >>>](9-unsupervised.md)
 
 # Supervised Classification
 
@@ -78,4 +78,4 @@ In `LinearSVC` the `classifier.predict` decides which class a data point is in b
 
 
 
-[<<< Previous](supervised.md) | [Next >>>](unsupervised.md)
+[<<< Previous](7-supervised.md) | [Next >>>](9-unsupervised.md)
