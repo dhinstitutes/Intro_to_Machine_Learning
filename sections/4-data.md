@@ -1,4 +1,4 @@
-[<<< Previous](classification.md) | [Next >>>](features.md)
+[<<< Previous](3-classification.md) | [Next >>>](5-features.md)
 
 ## Getting Our Data
 
