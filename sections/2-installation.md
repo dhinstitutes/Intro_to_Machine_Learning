@@ -1,4 +1,4 @@
-[<<< Previous](introduction.md) | [Next >>>](classification.md)
+[<<< Previous](1-introduction.md) | [Next >>>](3-classification.md)
 
 # Installation and Setup
 
@@ -47,4 +47,4 @@ import sklearn
 
 Note that you can also download the [Jupyter Notebook](classification.mdintroduction.mdintro_to_ml_with_python.ipynb) for this lesson to follow along.
 
-[<<< Previous](introduction.md) | [Next >>>](classification.md)
+[<<< Previous](1-introduction.md) | [Next >>>](3-classification.md)
