@@ -1,4 +1,4 @@
-[<<< Previous](supervised.md) | [Next >>>](bag_of_words.md)
+[<<< Previous](8-supervised.md) | [Next >>>](10-bag_of_words.md)
 
 # How does unsupervised machine learning work?
 
@@ -29,4 +29,4 @@ Generally speaking, in an unsupervised task there is no existing labeling to com
 
 ![algorithms_cheatsheet](../images/algorithms_cheatsheet.png)
 
-[<<< Previous](supervised.md) | [Next >>>](bag_of_words.md)
+[<<< Previous](8-supervised.md) | [Next >>>](10-bag_of_words.md)
