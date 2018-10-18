@@ -1,4 +1,4 @@
-[<<< Previous](installation.md) | [Next >>>](data.md)
+[<<< Previous](2-installation.md) | [Next >>>](4-data.md)
 
 # What Is Classification? 
 
@@ -183,4 +183,4 @@ fig.savefig("images/categories_counts.png", bbox_inches = 'tight', pad_inches = 
 We have slightly more news data than romance data, which we should keep in mind as we go ahead with classification.
 
 
-[<<< Previous](installation.md) | [Next >>>](data.md)
+[<<< Previous](2-installation.md) | [Next >>>](4-data.md)
